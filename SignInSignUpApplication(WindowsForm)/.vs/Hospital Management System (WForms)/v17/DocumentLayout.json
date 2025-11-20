@@ -1,0 +1,1295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|d:\\university\\semester 4\\db lab\\signinsignupapplication(windowsform)\\signinsignupapplication(windowsform)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\delete_allocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\delete_allocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\delete_allocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\delete_allocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\add_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\add_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\add_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\add_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\patdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\patdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\dl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\dl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\room_allocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\room_allocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\room_allocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\room_allocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\delete_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\delete_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\issue_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\issue_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\room_allocation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\room_allocation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\add_medicine.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\add_medicine.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\addpatdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\addpatdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\addpatdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\addpatdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\update_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\update_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\patdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\patdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\docdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\docdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\docdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\docdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\docsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\docsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\update_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\update_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\update_doctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\update_doctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\update_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\update_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\update_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\update_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\update_patient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\update_patient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\issue_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\issue_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\adddocdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\adddocdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\adddocdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\adddocdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\add_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\add_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\view_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\view_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\docdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\docdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\docdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\docdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\add_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\add_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\generate_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\generate_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\add_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\add_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\docappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\docappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\generate_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\generate_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\generate_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\generate_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\delete_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\delete_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\add_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\add_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\generate_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\generate_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\patappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\patappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\add_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\add_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\add_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\add_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\delete_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\delete_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\delete_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\delete_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\delete_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\delete_medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\delete_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\delete_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\patbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\patbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\bill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\bill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\bill.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\bill.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\signinsignupapplication(windowsform)\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B102A7F6-0D5B-4243-9EAC-C4FE72039966}|SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm).csproj|solutionrelative:signinsignupapplication(windowsform)\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 148,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Admin.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Admin.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Admin.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:36:11.81Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Main.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Main.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Main.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Main.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:09:52.044Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Main.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Main.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Main.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:32:24.495Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Admin.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Admin.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Admin.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Admin.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAASwGIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:13:09.26Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DL.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DL.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\DL.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DL.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\DL.cs",
+              "ViewState": "AQIAAE8DAAAAAAAAAAAAAE8DAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:03:10.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Room_Allocation.Designer.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Room_Allocation.Designer.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Room_Allocation.Designer.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Room_Allocation.Designer.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Room_Allocation.Designer.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAAwLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:18:12.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Patient.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Patient.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Patient.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:44:42.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Update_Patient.Designer.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Patient.Designer.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Update_Patient.Designer.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Patient.Designer.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Update_Patient.Designer.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAlwBMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:04:48.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Update_Patient.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Patient.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Update_Patient.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Patient.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Update_Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:01:11.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Program.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Program.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Program.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:36:45.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Update_Doctor.Designer.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Doctor.Designer.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Update_Doctor.Designer.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Doctor.Designer.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Update_Doctor.Designer.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAuwBgBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:01:40.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Update_Doctor.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Doctor.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Update_Doctor.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Doctor.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Update_Doctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:47:12.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "View_room.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_room.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_room.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_room.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T02:32:40.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "View_room.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_room.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_room.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_room.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_room.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T02:03:05.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DocDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocDashboard.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\DocDashboard.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocDashboard.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\DocDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:09:03.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\SignUp.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\SignUp.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:05:00.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\SignIn.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\SignIn.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\SignIn.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\SignIn.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:38:02.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DocDashboard.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocDashboard.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\DocDashboard.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocDashboard.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\DocDashboard.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAD4v0gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:09:58.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Issue_Medicine.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Issue_Medicine.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Issue_Medicine.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Issue_Medicine.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Issue_Medicine.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:06:09.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Issue_Medicine.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Issue_Medicine.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Issue_Medicine.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Issue_Medicine.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Issue_Medicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:04:15.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Delete_Medicine.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Medicine.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Delete_Medicine.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Medicine.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Delete_Medicine.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:53:09.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Delete_Medicine.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Medicine.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Delete_Medicine.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Medicine.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Delete_Medicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:52:11.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "View_Medicine.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Medicine.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_Medicine.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Medicine.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_Medicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:48:05.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "View_Medicine.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Medicine.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_Medicine.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Medicine.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_Medicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:43:37.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ADD_Medicine.Designer.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\ADD_Medicine.Designer.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\ADD_Medicine.Designer.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\ADD_Medicine.Designer.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\ADD_Medicine.Designer.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAAwNAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:40:53.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ADD_Medicine.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\ADD_Medicine.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\ADD_Medicine.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\ADD_Medicine.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\ADD_Medicine.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:16:50.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ADD_Medicine.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\ADD_Medicine.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\ADD_Medicine.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\ADD_Medicine.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\ADD_Medicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:16:44.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Generate_Report.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Generate_Report.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Generate_Report.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Generate_Report.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Generate_Report.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAuwIQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:40:36.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Generate_Report.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Generate_Report.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Generate_Report.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Generate_Report.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Generate_Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:40:08.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Delete_Salary.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Salary.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Delete_Salary.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Salary.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Delete_Salary.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:29:01.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete_Salary.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Salary.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Delete_Salary.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Salary.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Delete_Salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:27:33.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "View_Salary.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Salary.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_Salary.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Salary.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_Salary.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:26:30.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "View_Salary.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Salary.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_Salary.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Salary.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_Salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:25:16.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Add_Salary.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_Salary.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Add_Salary.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_Salary.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Add_Salary.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA+wDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:21:09.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Add_Salary.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_Salary.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Add_Salary.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_Salary.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Add_Salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:20:04.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BL.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\BL.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\BL.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\BL.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\BL.cs",
+              "ViewState": "AQIAAEYBAAAAAAAAAAAxwFQBAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:02:55.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Generate_Bill.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Generate_Bill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Generate_Bill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Generate_Bill.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Generate_Bill.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:58:00.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Generate_Bill.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Generate_Bill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Generate_Bill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Generate_Bill.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Generate_Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:56:44.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "View_Bill.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Bill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_Bill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Bill.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_Bill.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:54:54.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "View_Bill.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Bill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_Bill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Bill.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:52:17.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Delete_Bill.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Bill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Delete_Bill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Bill.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Delete_Bill.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:48:01.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Delete_Bill.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Bill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Delete_Bill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Bill.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Delete_Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:45:21.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Add_Bill.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_Bill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Add_Bill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_Bill.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Add_Bill.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:40:11.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Add_Bill.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_Bill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Add_Bill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_Bill.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Add_Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:37:47.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete_Allocation.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Allocation.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Delete_Allocation.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Allocation.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Delete_Allocation.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:27:13.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete_Allocation.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Allocation.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Delete_Allocation.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete_Allocation.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Delete_Allocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:23:52.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Room_Allocation.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Room_Allocation.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Room_Allocation.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Room_Allocation.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Room_Allocation.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:28:01.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Room_Allocation.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Room_Allocation.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Room_Allocation.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Room_Allocation.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Room_Allocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:20:17.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add_room.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_room.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Add_room.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_room.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Add_room.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:08:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add_room.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_room.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Add_room.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Add_room.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Add_room.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:00:10.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Bill.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Bill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Bill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Bill.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:40:24.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Bill.Designer.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Bill.Designer.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Bill.Designer.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Bill.Designer.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Bill.Designer.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAcwH8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:43:53.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Bill.resx",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Bill.resx",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Bill.resx",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Bill.resx",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Bill.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-23T14:43:50.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Salary.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Salary.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Salary.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Salary.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwFkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:42:11.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Bill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Bill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Bill.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Bill.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAiwEYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:40:27.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\SignUp.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\SignUp.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\SignUp.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:59:59.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddDocDetails.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\AddDocDetails.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\AddDocDetails.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\AddDocDetails.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\AddDocDetails.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAjwCQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:57:04.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Doctor.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Doctor.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Doctor.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Doctor.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAnwDMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:48:20.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Update_Doctor.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Doctor.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Update_Doctor.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Doctor.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Update_Doctor.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwD0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:42:12.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PatBill.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\PatBill.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\PatBill.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\PatBill.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\PatBill.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:39:16.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PatAppointment.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\PatAppointment.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\PatAppointment.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\PatAppointment.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\PatAppointment.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:37:14.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DocSalary.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocSalary.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\DocSalary.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocSalary.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\DocSalary.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:35:17.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DocAppointment.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocAppointment.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\DocAppointment.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocAppointment.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\DocAppointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:32:38.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Delete.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Delete.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:48:02.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Delete.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Delete.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:47:59.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PatDelete.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\PatDelete.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\PatDelete.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\PatDelete.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\PatDelete.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:45:35.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatDelete.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\PatDelete.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\PatDelete.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\PatDelete.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\PatDelete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:45:33.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DocDelete.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocDelete.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\DocDelete.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocDelete.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\DocDelete.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:45:09.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DocDelete.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocDelete.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\DocDelete.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\DocDelete.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\DocDelete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:45:07.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "View_Doctor.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Doctor.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_Doctor.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Doctor.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_Doctor.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:44:24.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "View_Doctor.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Doctor.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_Doctor.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Doctor.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_Doctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:44:21.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Patient.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Patient.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Patient.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Patient.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:44:12.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "View_Patient.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Patient.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_Patient.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Patient.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_Patient.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:43:06.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "View_Patient.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Patient.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\View_Patient.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\View_Patient.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\View_Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:43:04.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Update_Patient.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Patient.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Update_Patient.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Update_Patient.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Update_Patient.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAuwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:00:36.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddPatDetails.cs",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\AddPatDetails.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\AddPatDetails.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\AddPatDetails.cs",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\AddPatDetails.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwDsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:42:46.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddPatDetails.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\AddPatDetails.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\AddPatDetails.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\AddPatDetails.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\AddPatDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:42:40.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Salary.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Salary.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\Salary.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\Salary.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\Salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:42:09.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SignIn.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\SignIn.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\SignIn.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\SignIn.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:38:00.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddDocDetails.cs [Design]",
+              "DocumentMoniker": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\AddDocDetails.cs",
+              "RelativeDocumentMoniker": "SignInSignUpApplication(WindowsForm)\\AddDocDetails.cs",
+              "ToolTip": "D:\\University\\semester 4\\DB Lab\\SignInSignUpApplication(WindowsForm)\\SignInSignUpApplication(WindowsForm)\\AddDocDetails.cs [Design]",
+              "RelativeToolTip": "SignInSignUpApplication(WindowsForm)\\AddDocDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:36:51.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
